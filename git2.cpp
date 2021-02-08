@@ -8,3 +8,7 @@ int adder(a,b)
 }
 
 
+int carpma(a,b)
+{
+	return a*b;
+}
