@@ -3,12 +3,14 @@ int minus(a,b)
 	return a-b;
 }
 
-int adder(a,b)
+/*int adder(a,b)
 {
 	return a+b;
 }
+*/
 
-int random(a)
+int carp(a,b)
 {
-	
+	return a*b;
 }
+
